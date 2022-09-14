@@ -1,0 +1,44 @@
+html {
+    background: rgb(63,94,251);
+
+}
+
+body {
+    margin: 0;
+    padding: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    min-width: 400px;
+}
+
+input {
+    width: 100%;
+    padding: 10px;
+    box-sizing: border-box;
+    border: 1px solid #ffffff;;
+    margin-bottom: 4px;
+}
+
+button {
+    background: rgb(63,94,251);
+    background: linear-gradient(164deg, rgba(63,94,251,1) 0%, rgba(252,70,107,1) 100%);
+    color: white;
+    padding: 10px 20px;
+    border: 1px solid #ffffff;
+    font-weight: bold;
+    border-radius: 4px;
+    width: 33%;
+}
+
+ul {
+    margin-top: 20px;
+    list-style: none;
+    padding-left: 0;
+}
+
+li {
+    margin-top: 5px;
+}
+
+a {
+    color: #ffffff;
+}
